@@ -28,9 +28,9 @@
 ## 🛠 Projetos em Destaque
 
 - 📌 [**RDO (AlfaID)**]([https://github.com/vianawill/VIANAforms](https://github.com/vianawill/Rdo---29.04.git))  
-  Sistema baseado em formulários que registram o dia a dia de uma obra cívil. 
+  Sistema baseado em formulários que registram o dia a dia de uma obra civil. 
   O Relatório Diário de Obra (RDO) registra as atividades, mão de obra, materiais e ocorrências diárias de uma obra, servindo como controle técnico, legal e gerencial.
-  Projeto feito em colaoração com a Alfa Engenharia.
+  Projeto feito em um prazo de seis meses, colaboração com a Alfa Engenharia.
 
 
 <!-- Adicione outros projetos fixados aqui se quiser -->
